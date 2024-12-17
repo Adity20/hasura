@@ -1,4 +1,4 @@
-<h1 align="center">GraphQL API with Fine-Grained Access Control</h1>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Daytona-00A8E8?style=for-the-badge">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
-
+<h1 align="center">GraphQL API with Fine-Grained Access Control</h1>
 ---
 
 ## Description

@@ -43,7 +43,7 @@ This project demonstrates how to create a **GraphQL API** with fine-grained acce
 
 2. **Create the Workspace**:
    ```bash
-   daytona create https://github.com/Adity20/Sample-Template
+   daytona create https://github.com/Adity20/hasura
    ```
 
 ### Add Forwarded Port
